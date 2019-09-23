@@ -1,0 +1,25 @@
+.wrap{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 1280px;
+	height: 1024px;
+}
+
+.header{
+	background: #FFCC00;
+	color: white;
+	text-align: center;
+	height: 200px;
+}
+
+.nav-line{
+	background: #ddd;
+	height: 50px;
+}
+
+.footer{
+	background: #ddd;
+	height: 30px;
+	text-align: center;
+}

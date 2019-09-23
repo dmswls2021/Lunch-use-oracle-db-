@@ -1,0 +1,29 @@
+.box{
+	padding: 30px;
+	padding-left: 230px;
+}
+
+.box > h2{
+	margin-left: 340px;
+}
+
+.box > h3{
+	margin-left: 350px;
+}
+
+.main_tbl {
+	width: 800px;
+	text-align: center;
+}
+
+.title {
+	background: #FFCC00;
+	border-bottom: 1px solid #333;
+	font-size: 13pt;
+}
+
+.focus{
+	background: #ff8000;
+	color: white;
+	font-size: 13pt;
+}
